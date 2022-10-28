@@ -1,0 +1,15 @@
+{
+  "name": "docs-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "smart-ui-vite": "0.0.0-7581d9e"
+  }
+}
