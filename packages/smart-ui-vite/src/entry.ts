@@ -1,7 +1,7 @@
 import RenderButton from "./RenderButton";
 import SFCButton from "./SFCButton.vue";
 import JsxButton from "./JsxButton";
-import SButton from "./button";
+import { Button as SButton } from "./button";
 import { App } from "vue";
 
 export { RenderButton, SFCButton, JsxButton, SButton };
